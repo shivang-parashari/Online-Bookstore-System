@@ -1,0 +1,29 @@
+body,html{
+
+   background: white url("images/sback.jpg ");
+   background-repeat: no-repeat;
+   height: 100%;
+   margin: 0;
+   background-position : center;
+   background-size: cover;
+
+
+
+}
+.jumbotron{
+
+   background: white url("images/yellow.jpg");
+    background-repeat: no-repeat;
+   background-size: auto;
+
+
+}
+.jumbotron-special{
+
+   background: white url("images/purple.jpg");
+
+}
+.jumbotron-special h2{
+
+   color:white;
+}
